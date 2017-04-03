@@ -1,2 +1,2 @@
 # zengsn.github.io
-Shaoning Zeng's Website
+Redirect to https://github.com/zengsn/research 
