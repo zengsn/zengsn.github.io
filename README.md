@@ -18,6 +18,6 @@
 
  Senthil IRTT 1.2 - https://github.com/zengsn/research/tree/master/Senthil_IRTT_12
  
- # Contact
+# Contact
  
  ![Scholarly](https://raw.githubusercontent.com/zengsn/research/master/Scholarly.jpg)
